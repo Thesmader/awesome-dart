@@ -191,6 +191,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [DartPad](https://dartpad.dartlang.org/) - Online lightweight editor.
 * [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart support for Visual Studio Code.
 * [Module Linker](http://fiatjaf.alhur.es/module-linker/#/dart) - Chrome Extension that adds direct links to module import statements on GitHub.
+* [Flutter Tools Neovim Plugin](https://github.com/akinsho/flutter-tools.nvim) - Dart & Flutter LSP integration for Neovim.
 
 ## Everything Else
 
